@@ -1,0 +1,8 @@
+{
+"max_day_guests":2,
+"max_night_guests":1,
+"max_guests_per_day":3,
+"max_night_guests_days_range":8,
+"month_night_guests_remaining":1,
+"dates": null
+}
