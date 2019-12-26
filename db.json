@@ -1,18 +1,20 @@
 {
-"count": 0,
-"next": "http://example.com",
-"previous": "http://example.com",
-"results": [
-        {
-        "id": 0,
-        "user": 0,
-        "type": "tour",
-        "title": "string",
-        "body": "string",
-        "extra_args": { 
-          "tour_manager": "Name"
-        },
-        "is_read": true
+        "example": {
+                "count": 0,
+                "next": "http://example.com",
+                "previous": "http://example.com",
+                "results": [
+                        {
+                                "id": 0,
+                                "user": 0,
+                                "type": "tour",
+                                "title": "string",
+                                "body": "string",
+                                "extra_args": { 
+                                  "tour_manager": "Name"
+                                },
+                                "is_read": true
+                        }
+                ]
         }
-]
 }
