@@ -1,11 +1,18 @@
 {
-  "occupancy": {
-    "max_day_guests":2,
-    "max_night_guests":3,
-    "max_guests_per_day":1,
-    "max_night_guests_days_range":8,
-    "month_night_guests_remaining":6,
-    "dates": [{"date": "2019-12-03", "guests_count": 1}]
-   }
+"count": 0,
+"next": "http://example.com",
+"previous": "http://example.com",
+"results": [
+        {
+        "id": 0,
+        "user": 0,
+        "type": "tour",
+        "title": "string",
+        "body": "string",
+        "extra_args": { 
+          "tour_manager": "Name"
+        },
+        "is_read": true
+        }
+]
 }
-
